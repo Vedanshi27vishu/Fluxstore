@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "985909871993",
+    "project_id": "begining-decbc",
+    "storage_bucket": "begining-decbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985909871993:android:cbc8caf6c8782c12401ba8",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANv_Uhsbp9f7yuQhsxEiA2XeGtNC9aah4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
